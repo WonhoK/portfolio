@@ -21,7 +21,7 @@
 >개발 기간: 2022.11.28 ~ 2023.1.13  
 >  
 >기술 스택:  
-> Python / Pytorch / Tensorflow / Yolo v5 / OpenCV
+> Python / Pytorch / Tensorflow / Yolo v5 / OpenCV /
 > HTML / CSS / Javascript / Django / MySQL
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
