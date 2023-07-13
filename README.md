@@ -1,16 +1,22 @@
 # 김원호 포트폴리오
->캐치 프레이즈
-
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+- Birth : 1993.07.01
+- Education : Yonsei Univ (2012.03 ~ 2021.02)
+- License : AICE Associate
+
+</br>
+
+## :pushpin: Skill
+- Language : C, Java, Python
+- Backend : Django, MySQL
+- ML/DL : Pytorch, Pandas, Numpy, Matpolib, Tensorflow, OpenCV, YOLO
 
 </br>
 
 ## :pushpin: Contact
 - 이메일: whkim0701@gmail.com
-- 블로그: 
 - 깃헙: https://github.com/WonhoK
 
 </br>
