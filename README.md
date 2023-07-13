@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [퍼파라치](https://github.com/Integerous/goQuality)
+### 1. [퍼파라치](https://github.com/Integerous/goQuality](https://github.com/WonhoK/portfolio/tree/main/puparazzi)
 >인공지능 공공시설물 파손 신고 서비스 (팀 프로젝트)  
 >개발 기간: 2022.11.28 ~ 2023.1.13  
 >  
