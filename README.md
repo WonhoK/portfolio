@@ -24,6 +24,6 @@
 > Python / Pytorch / Tensorflow / Yolo v5 / OpenCV /
 > HTML / CSS / Javascript / Django / MySQL
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/WonhoK/portfolio/tree/main/puparazzi) 참고
 >
 >---
